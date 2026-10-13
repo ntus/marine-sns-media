@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-10-11 20:44 JST",
- "products": 300,
+ "generated": "2026-10-14 01:40 JST",
+ "products": 301,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -720,6 +720,13 @@
  ],
  "new": [
   {
+   "name": "雑誌『釣と人生』創刊号 釣りと生きる63人の証言者",
+   "url": "https://s.ntus.info/shopdetail/000000000369/",
+   "price": 13200,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000369_Mq02OOa.jpg",
+   "created": "2026-10-14"
+  },
+  {
    "name": "JijijiJiji Fukurou (ジジジジジ フクロウ (梟)) 17g",
    "url": "https://s.ntus.info/shopdetail/000000000367/",
    "price": 1430,
@@ -795,13 +802,6 @@
    "price": 682,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000339_QQRuZgT.jpg",
    "created": "2025-09-25"
-  },
-  {
-   "name": "鯊屋ネット (HAZEYA NET)",
-   "url": "https://s.ntus.info/shopdetail/000000000338/",
-   "price": 32000,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000338_3bBliys.jpg",
-   "created": "2025-09-20"
   }
  ]
 }
