@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-10-16 17:50 JST",
+ "generated": "2026-10-20 05:30 JST",
  "products": 302,
  "mode": "new",
  "groups": {
@@ -605,11 +605,6 @@
   {
    "name": "JA-DO",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=JA-DO",
-   "count": 1
-  },
-  {
-   "name": "JUNGLE GYM",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=JUNGLE%20GYM",
    "count": 1
   },
   {
