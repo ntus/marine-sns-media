@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-10-20 05:30 JST",
+ "generated": "2026-10-20 05:40 JST",
  "products": 302,
  "mode": "new",
  "groups": {
@@ -608,6 +608,11 @@
    "count": 1
   },
   {
+   "name": "JUNGLE GYM",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=JUNGLE%20GYM",
+   "count": 1
+  },
+  {
    "name": "MARUKYU",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=MARUKYU",
    "count": 1
@@ -795,7 +800,7 @@
    "name": "KEITECH Easy Shaker (ケイテック イージーシェイカー)",
    "url": "https://s.ntus.info/shopdetail/000000000339/",
    "price": 682,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000339_QQRuZgT.jpg",
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000339_4K5EGBe.jpg",
    "created": "2025-09-25"
   }
  ]
