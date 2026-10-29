@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-10-28 19:00 JST",
+ "generated": "2026-10-29 17:20 JST",
  "products": 302,
  "mode": "new",
  "groups": {
@@ -741,6 +741,13 @@
    "created": "2026-09-25"
   },
   {
+   "name": "特別SALE価格：アウトレット品(メーカー整備済品)【Loongze Airlite (ローンズ エアライト) 】ベイトリール",
+   "url": "https://s.ntus.info/shopdetail/000000000365/",
+   "price": 37400,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000365_YWVE7LJ.png",
+   "created": "2026-09-25"
+  },
+  {
    "name": "Loongze Airlite A50/A51 MC-1 (ローンズ エアライト) ベイトリール【受注生産】",
    "url": "https://s.ntus.info/shopdetail/000000000362/",
    "price": 64900,
@@ -795,13 +802,6 @@
    "price": 75900,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000340_Q7aeb9u.png",
    "created": "2025-09-28"
-  },
-  {
-   "name": "KEITECH Easy Shaker (ケイテック イージーシェイカー)",
-   "url": "https://s.ntus.info/shopdetail/000000000339/",
-   "price": 682,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000339_4K5EGBe.jpg",
-   "created": "2025-09-25"
   }
  ]
 }
