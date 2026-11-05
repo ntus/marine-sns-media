@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-05 12:40 JST",
- "products": 306,
+ "generated": "2026-11-05 14:30 JST",
+ "products": 307,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -725,6 +725,13 @@
  ],
  "new": [
   {
+   "name": "がまかつ 糸付 競技カワハギ 速攻 30本入（ハリス10cm・6cm／フロロカーボン・コブ付）",
+   "url": "https://s.ntus.info/shopdetail/000000000380/",
+   "price": 980,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000380_Iz1MVVF.jpg",
+   "created": "2026-11-05"
+  },
+  {
    "name": "光る眼玉（ヒカルメダマ）LED点滅 集魚ライト 中通し式 3個入り｜カワハギ・アナゴ・フグ・イカ・夜釣りに",
    "url": "https://s.ntus.info/shopdetail/000000000379/",
    "price": 1815,
@@ -800,13 +807,6 @@
    "price": 748,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000349_6g8ipJs.jpg",
    "created": "2025-11-29"
-  },
-  {
-   "name": "YAMARIA YAMASHITA YH Beads (ヤマリア ヤマシタ YHビーズ)",
-   "url": "https://s.ntus.info/shopdetail/000000000348/",
-   "price": 605,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000348_iVnKvcb.png",
-   "created": "2025-11-25"
   }
  ]
 }
