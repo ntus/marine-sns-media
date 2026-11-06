@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-05 14:30 JST",
- "products": 307,
+ "generated": "2026-11-06 10:30 JST",
+ "products": 308,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -703,6 +703,11 @@
    "count": 1
   },
   {
+   "name": "Zatta",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=Zatta",
+   "count": 1
+  },
+  {
    "name": "fimo",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=fimo",
    "count": 1
@@ -724,6 +729,13 @@
   }
  ],
  "new": [
+  {
+   "name": "Zatta ザボトル（THE BOTTLE）49mm 4.0g #1 ぼっこす 酒瓶型トップウォーター",
+   "url": "https://s.ntus.info/shopdetail/000000000381/",
+   "price": 1650,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000381_9cVCDeZ.jpg",
+   "created": "2026-11-06"
+  },
   {
    "name": "がまかつ 糸付 競技カワハギ 速攻 30本入（ハリス10cm・6cm／フロロカーボン・コブ付）",
    "url": "https://s.ntus.info/shopdetail/000000000380/",
@@ -799,13 +811,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000350/",
    "price": 638,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000350_msPspBv.jpg",
-   "created": "2025-11-29"
-  },
-  {
-   "name": "ニッコー化成 ヘビトンボ Sinking Version ※エラストマー材質",
-   "url": "https://s.ntus.info/shopdetail/000000000349/",
-   "price": 748,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000349_6g8ipJs.jpg",
    "created": "2025-11-29"
   }
  ]
