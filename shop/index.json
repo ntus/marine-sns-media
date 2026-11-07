@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-07 13:50 JST",
- "products": 312,
+ "generated": "2026-11-07 15:50 JST",
+ "products": 313,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -673,6 +673,11 @@
    "count": 1
   },
   {
+   "name": "TaPiYoTa",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=TaPiYoTa",
+   "count": 1
+  },
+  {
    "name": "Tackle House",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Tackle%20House",
    "count": 1
@@ -729,6 +734,13 @@
   }
  ],
  "new": [
+  {
+   "name": "TaPiYoTa TAIRUBBER HOOK SYSTEM (タピヨタ タイラバ フックシステム) taichi69nz がまかつフック3本 ネクタイ付き",
+   "url": "https://s.ntus.info/shopdetail/000000000386/",
+   "price": 1000,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000386_F3HUWro.jpg",
+   "created": "2026-11-07"
+  },
   {
    "name": "JUNGLE GYM MICRO ASSIST (ジャングルジム ミクロアシスト) J406",
    "url": "https://s.ntus.info/shopdetail/000000000385/",
@@ -805,13 +817,6 @@
    "price": 1430,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000367_34iYMtj.jpg",
    "created": "2026-10-05"
-  },
-  {
-   "name": "Loongze Feilong FL-100/FL-101 DBC (ローンズ フェイロン) ベイトリール【受注生産】",
-   "url": "https://s.ntus.info/shopdetail/000000000366/",
-   "price": 63800,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000366_ieLceDZ.png",
-   "created": "2026-09-25"
   }
  ]
 }
