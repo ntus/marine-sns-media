@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-06 10:40 JST",
- "products": 308,
+ "generated": "2026-11-07 13:50 JST",
+ "products": 312,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -408,14 +408,14 @@
    "count": 15
   },
   {
+   "name": "DAIWA",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=DAIWA",
+   "count": 15
+  },
+  {
    "name": "O.S.P",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=O.S.P",
    "count": 14
-  },
-  {
-   "name": "DAIWA",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=DAIWA",
-   "count": 13
   },
   {
    "name": "SILVERWOLF",
@@ -543,6 +543,16 @@
    "count": 2
   },
   {
+   "name": "JUNGLE GYM",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=JUNGLE%20GYM",
+   "count": 2
+  },
+  {
+   "name": "YGK",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=YGK",
+   "count": 2
+  },
+  {
    "name": "deps",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=deps",
    "count": 2
@@ -610,11 +620,6 @@
   {
    "name": "JA-DO",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=JA-DO",
-   "count": 1
-  },
-  {
-   "name": "JUNGLE GYM",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=JUNGLE%20GYM",
    "count": 1
   },
   {
@@ -693,11 +698,6 @@
    "count": 1
   },
   {
-   "name": "YGK",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=YGK",
-   "count": 1
-  },
-  {
    "name": "ZAPPU",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=ZAPPU",
    "count": 1
@@ -729,6 +729,34 @@
   }
  ],
  "new": [
+  {
+   "name": "JUNGLE GYM MICRO ASSIST (ジャングルジム ミクロアシスト) J406",
+   "url": "https://s.ntus.info/shopdetail/000000000385/",
+   "price": 583,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000385_OcQibKj.jpg",
+   "created": "2026-11-07"
+  },
+  {
+   "name": "DAIWA EG SNAP (ダイワ EG イージースナップ) S マットブラック 8個入 エギング用",
+   "url": "https://s.ntus.info/shopdetail/000000000384/",
+   "price": 330,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000384_wcyeqnY.jpg",
+   "created": "2026-11-07"
+  },
+  {
+   "name": "DAIWA TSUYOJIKU SNAP CROSS LOCK (ダイワ 強軸スナップ クロスロック)",
+   "url": "https://s.ntus.info/shopdetail/000000000383/",
+   "price": 506,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000383_7OuBRZY.jpg",
+   "created": "2026-11-07"
+  },
+  {
+   "name": "YGK CHERUM AMBERCORD SG D-PET (よつあみ チェルム アンバーコード SG D-PET エステルライン) 200m 0.3号 失透ピンク",
+   "url": "https://s.ntus.info/shopdetail/000000000382/",
+   "price": 1760,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000382_e6FuSRY.jpg",
+   "created": "2026-11-07"
+  },
   {
    "name": "Zatta ザボトル（THE BOTTLE）49mm 4.0g 酒瓶型トップウォーター",
    "url": "https://s.ntus.info/shopdetail/000000000381/",
@@ -784,34 +812,6 @@
    "price": 63800,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000366_ieLceDZ.png",
    "created": "2026-09-25"
-  },
-  {
-   "name": "特別SALE価格：アウトレット品(メーカー整備済品)【Loongze Airlite (ローンズ エアライト) 】ベイトリール",
-   "url": "https://s.ntus.info/shopdetail/000000000365/",
-   "price": 37400,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000365_YWVE7LJ.png",
-   "created": "2026-09-25"
-  },
-  {
-   "name": "Loongze Airlite A50/A51 MC-1 (ローンズ エアライト) ベイトリール【受注生産】",
-   "url": "https://s.ntus.info/shopdetail/000000000362/",
-   "price": 64900,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000362_Afg0yyz.jpg",
-   "created": "2026-08-15"
-  },
-  {
-   "name": "NIKKO CRAW (ニッコー化成 ニッコークロー) 2.4inch ※エラストマー材質",
-   "url": "https://s.ntus.info/shopdetail/000000000355/",
-   "price": 781,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000355_uoGENzW.jpg",
-   "created": "2026-04-11"
-  },
-  {
-   "name": "ニッコー化成 ダッピー サンドワーム ※エラストマー材質",
-   "url": "https://s.ntus.info/shopdetail/000000000350/",
-   "price": 638,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000350_msPspBv.jpg",
-   "created": "2025-11-29"
   }
  ]
 }
