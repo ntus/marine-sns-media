@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-09 14:11 JST",
- "products": 318,
+ "generated": "2026-11-09 14:20 JST",
+ "products": 321,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -488,6 +488,11 @@
    "count": 3
   },
   {
+   "name": "DUO",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=DUO",
+   "count": 3
+  },
+  {
    "name": "Jackson",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Jackson",
    "count": 3
@@ -538,11 +543,6 @@
    "count": 2
   },
   {
-   "name": "DUO",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=DUO",
-   "count": 2
-  },
-  {
    "name": "ECOGEAR",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=ECOGEAR",
    "count": 2
@@ -550,6 +550,11 @@
   {
    "name": "JUNGLE GYM",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=JUNGLE%20GYM",
+   "count": 2
+  },
+  {
+   "name": "LUCKY",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=LUCKY",
    "count": 2
   },
   {
@@ -735,6 +740,27 @@
  ],
  "new": [
   {
+   "name": "LUCKY CRAFT Deep Cra-pea DRS SS ハゼカラー (ラッキークラフト ディープクラ・ピー DRS SS) 34mm 3.9g ハゼクランク",
+   "url": "https://s.ntus.info/shopdetail/000000000394/",
+   "price": 1400,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000394_KLfhcZO.jpg",
+   "created": "2026-11-09"
+  },
+  {
+   "name": "LUCKY CRAFT Deep Cra-pea SFT (ラッキークラフト ディープクラ・ピー SFT) 34mm 3.3g エリアトラウト",
+   "url": "https://s.ntus.info/shopdetail/000000000393/",
+   "price": 1400,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000393_fjNys36.jpg",
+   "created": "2026-11-09"
+  },
+  {
+   "name": "DUO TETRA WORKS KURAKURA F (デュオ テトラワークス クラクラF) 30mm 2.5g ハゼクランク",
+   "url": "https://s.ntus.info/shopdetail/000000000392/",
+   "price": 1250,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000392_vky8Ueg.jpg",
+   "created": "2026-11-09"
+  },
+  {
    "name": "BASSDAY はぜ玉 (バスデイ はぜだま) 25mm 3.1g ハゼクランク",
    "url": "https://s.ntus.info/shopdetail/000000000391/",
    "price": 1150,
@@ -796,27 +822,6 @@
    "price": 506,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000383_7OuBRZY.jpg",
    "created": "2026-11-07"
-  },
-  {
-   "name": "YGK CHERUM AMBERCORD SG D-PET (よつあみ チェルム アンバーコード SG D-PET エステルライン) 200m 0.3号 失透ピンク",
-   "url": "https://s.ntus.info/shopdetail/000000000382/",
-   "price": 1760,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000382_e6FuSRY.jpg",
-   "created": "2026-11-07"
-  },
-  {
-   "name": "Zatta ザボトル（THE BOTTLE）49mm 4.0g 酒瓶型トップウォーター",
-   "url": "https://s.ntus.info/shopdetail/000000000381/",
-   "price": 1650,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000381_25KAY3R.jpg",
-   "created": "2026-11-06"
-  },
-  {
-   "name": "がまかつ 糸付 競技カワハギ 速攻 30本入（ハリス10cm・6cm／フロロカーボン・コブ付）",
-   "url": "https://s.ntus.info/shopdetail/000000000380/",
-   "price": 980,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000380_Iz1MVVF.jpg",
-   "created": "2026-11-05"
   }
  ]
 }
