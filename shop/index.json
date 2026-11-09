@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-09 13:30 JST",
- "products": 314,
+ "generated": "2026-11-09 13:40 JST",
+ "products": 317,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -415,7 +415,7 @@
   {
    "name": "O.S.P",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=O.S.P",
-   "count": 14
+   "count": 15
   },
   {
    "name": "SILVERWOLF",
@@ -735,6 +735,27 @@
  ],
  "new": [
   {
+   "name": "ヤマワ産業 ゴム張ガン玉（2B・3B／各8個入）",
+   "url": "https://s.ntus.info/shopdetail/000000000390/",
+   "price": 400,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000390_hwsqdBQ.jpg",
+   "created": "2026-11-09"
+  },
+  {
+   "name": "O.S.P グライディー Glidy ジグヘッド #2/0（15g&#12316;40g／2本入）",
+   "url": "https://s.ntus.info/shopdetail/000000000388/",
+   "price": 650,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000388_OtFw9lz.jpg",
+   "created": "2026-11-09"
+  },
+  {
+   "name": "ヤマワ産業 ゴム張ガン玉 スタートセット ハードタイプ（3号&#12316;4B 7種×各6個・ケース付）",
+   "url": "https://s.ntus.info/shopdetail/000000000389/",
+   "price": 1200,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000389_35h5jI5.jpg",
+   "created": "2026-11-09"
+  },
+  {
    "name": "ヤマワ産業 ゴム張ガン玉 スタートセット ノーマルタイプ（3号&#12316;4B 7種×各6個・ケース付）",
    "url": "https://s.ntus.info/shopdetail/000000000387/",
    "price": 1200,
@@ -796,27 +817,6 @@
    "price": 1815,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000379_pVZUug7.jpg",
    "created": "2026-11-04"
-  },
-  {
-   "name": "ハゼプロ ハッピーハゼつりバケツ（たためるバケツ・道具入れにも）",
-   "url": "https://s.ntus.info/shopdetail/000000000378/",
-   "price": 1850,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000378_7Rw0nkO.jpg",
-   "created": "2026-11-04"
-  },
-  {
-   "name": "Hapyson ハピソン ちょこ脱臭 YH-400",
-   "url": "https://s.ntus.info/shopdetail/000000000377/",
-   "price": 5980,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000377_RnnvuP0.jpg",
-   "created": "2026-11-04"
-  },
-  {
-   "name": "雑誌『釣と人生』創刊号 釣りと生きる63人の証言者",
-   "url": "https://s.ntus.info/shopdetail/000000000369/",
-   "price": 13200,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000369_Mq02OOa.jpg",
-   "created": "2026-10-14"
   }
  ]
 }
