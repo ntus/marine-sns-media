@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-07 15:50 JST",
- "products": 313,
+ "generated": "2026-11-09 13:30 JST",
+ "products": 314,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -735,6 +735,13 @@
  ],
  "new": [
   {
+   "name": "ヤマワ産業 ゴム張ガン玉 スタートセット ノーマルタイプ（3号&#12316;4B 7種×各6個・ケース付）",
+   "url": "https://s.ntus.info/shopdetail/000000000387/",
+   "price": 1200,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000387_Eag17Ir.jpg",
+   "created": "2026-11-09"
+  },
+  {
    "name": "TaPiYoTa TAIRUBBER HOOK SYSTEM (タピヨタ タイラバ フックシステム) taichi69nz がまかつフック3本 ネクタイ付き",
    "url": "https://s.ntus.info/shopdetail/000000000386/",
    "price": 1000,
@@ -810,13 +817,6 @@
    "price": 13200,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000369_Mq02OOa.jpg",
    "created": "2026-10-14"
-  },
-  {
-   "name": "JijijiJiji Fukurou (ジジジジジ フクロウ (梟)) 17g",
-   "url": "https://s.ntus.info/shopdetail/000000000367/",
-   "price": 1430,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000367_34iYMtj.jpg",
-   "created": "2026-10-05"
   }
  ]
 }
