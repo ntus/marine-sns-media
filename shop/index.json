@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-09 13:40 JST",
- "products": 317,
+ "generated": "2026-11-09 14:11 JST",
+ "products": 318,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -528,6 +528,11 @@
    "count": 3
   },
   {
+   "name": "BASSDAY",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=BASSDAY",
+   "count": 2
+  },
+  {
    "name": "CORMORAN",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=CORMORAN",
    "count": 2
@@ -565,11 +570,6 @@
   {
    "name": "AquaWave",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=AquaWave",
-   "count": 1
-  },
-  {
-   "name": "BASSDAY",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=BASSDAY",
    "count": 1
   },
   {
@@ -735,6 +735,13 @@
  ],
  "new": [
   {
+   "name": "BASSDAY はぜ玉 (バスデイ はぜだま) 25mm 3.1g ハゼクランク",
+   "url": "https://s.ntus.info/shopdetail/000000000391/",
+   "price": 1150,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000391_84nEkO3.jpg",
+   "created": "2026-11-09"
+  },
+  {
    "name": "ヤマワ産業 ゴム張ガン玉（2B・3B／各8個入）",
    "url": "https://s.ntus.info/shopdetail/000000000390/",
    "price": 400,
@@ -810,13 +817,6 @@
    "price": 980,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000380_Iz1MVVF.jpg",
    "created": "2026-11-05"
-  },
-  {
-   "name": "光る眼玉（ヒカルメダマ）LED点滅 集魚ライト 中通し式 3個入り｜カワハギ・アナゴ・フグ・イカ・夜釣りに",
-   "url": "https://s.ntus.info/shopdetail/000000000379/",
-   "price": 1815,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000379_pVZUug7.jpg",
-   "created": "2026-11-04"
   }
  ]
 }
