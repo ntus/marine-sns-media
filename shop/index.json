@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-10 11:10 JST",
- "products": 326,
+ "generated": "2026-11-10 11:20 JST",
+ "products": 332,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -478,6 +478,11 @@
    "count": 4
   },
   {
+   "name": "OWNER",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=OWNER",
+   "count": 4
+  },
+  {
    "name": "PROX",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=PROX",
    "count": 4
@@ -500,11 +505,6 @@
   {
    "name": "Jackson",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Jackson",
-   "count": 3
-  },
-  {
-   "name": "OWNER",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=OWNER",
    "count": 3
   },
   {
@@ -555,6 +555,11 @@
   {
    "name": "LUCKY",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=LUCKY",
+   "count": 2
+  },
+  {
+   "name": "SASAME",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=SASAME",
    "count": 2
   },
   {
@@ -718,6 +723,11 @@
    "count": 1
   },
   {
+   "name": "YO-ZURI",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=YO-ZURI",
+   "count": 1
+  },
+  {
    "name": "ZAPPU",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=ZAPPU",
    "count": 1
@@ -749,6 +759,41 @@
   }
  ],
  "new": [
+  {
+   "name": "オサノン 完全ハリス止 ステンレス製 8個入",
+   "url": "https://s.ntus.info/shopdetail/000000000405/",
+   "price": 215,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000405_bF1jZJK.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "SASAME 袖鉤（金）糸付 AA401 ハリス45cm (ささめ針)",
+   "url": "https://s.ntus.info/shopdetail/000000000403/",
+   "price": 220,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000403_qSxQCYJ.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "YO-ZURI ガン玉セット やわらかタイプ L18（3・2・1・B・2B・3B）(ヨーヅリ)",
+   "url": "https://s.ntus.info/shopdetail/000000000402/",
+   "price": 482,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000402_NhWf2u5.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "OWNER インターロックスナップ付スイベル 72470 (オーナーばり)",
+   "url": "https://s.ntus.info/shopdetail/000000000401/",
+   "price": 250,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000401_FQaFhpZ.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "SASAME 道具屋さん 一発ハリス止 P-234 (ささめ針) 5個入",
+   "url": "https://s.ntus.info/shopdetail/000000000400/",
+   "price": 230,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000400_44UtCzq.jpg",
+   "created": "2026-11-10"
+  },
   {
    "name": "PROX Hook Sharpener 80 (プロックス フックシャープナー80) PX90880",
    "url": "https://s.ntus.info/shopdetail/000000000399/",
@@ -796,41 +841,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000393/",
    "price": 1400,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000393_fjNys36.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "DUO TETRA WORKS KURAKURA F (デュオ テトラワークス クラクラF) 30mm 2.5g ハゼクランク",
-   "url": "https://s.ntus.info/shopdetail/000000000392/",
-   "price": 1250,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000392_vky8Ueg.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "BASSDAY はぜ玉 (バスデイ はぜだま) 25mm 3.1g ハゼクランク",
-   "url": "https://s.ntus.info/shopdetail/000000000391/",
-   "price": 1150,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000391_84nEkO3.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "ヤマワ産業 ゴム張ガン玉（2B・3B／各8個入）",
-   "url": "https://s.ntus.info/shopdetail/000000000390/",
-   "price": 400,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000390_hwsqdBQ.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "O.S.P グライディー Glidy ジグヘッド #2/0（15g&#12316;40g／2本入）",
-   "url": "https://s.ntus.info/shopdetail/000000000388/",
-   "price": 650,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000388_OtFw9lz.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "ヤマワ産業 ゴム張ガン玉 スタートセット ハードタイプ（3号&#12316;4B 7種×各6個・ケース付）",
-   "url": "https://s.ntus.info/shopdetail/000000000389/",
-   "price": 1200,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000389_35h5jI5.jpg",
    "created": "2026-11-09"
   }
  ]
