@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-09 14:20 JST",
- "products": 321,
+ "generated": "2026-11-10 09:00 JST",
+ "products": 322,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -403,13 +403,13 @@
  },
  "brands": [
   {
-   "name": "BlueBlue",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=BlueBlue",
-   "count": 15
-  },
-  {
    "name": "DAIWA",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=DAIWA",
+   "count": 16
+  },
+  {
+   "name": "BlueBlue",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=BlueBlue",
    "count": 15
   },
   {
@@ -740,6 +740,13 @@
  ],
  "new": [
   {
+   "name": "DAIWA TG BAIT (ダイワ TGベイト)",
+   "url": "https://s.ntus.info/shopdetail/000000000395/",
+   "price": 2700,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000395_aH7H5ss.jpg",
+   "created": "2026-11-10"
+  },
+  {
    "name": "LUCKY CRAFT Deep Cra-pea DRS SS ハゼカラー (ラッキークラフト ディープクラ・ピー DRS SS) 34mm 3.9g ハゼクランク",
    "url": "https://s.ntus.info/shopdetail/000000000394/",
    "price": 1400,
@@ -814,13 +821,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000384/",
    "price": 330,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000384_wcyeqnY.jpg",
-   "created": "2026-11-07"
-  },
-  {
-   "name": "DAIWA TSUYOJIKU SNAP CROSS LOCK (ダイワ 強軸スナップ クロスロック)",
-   "url": "https://s.ntus.info/shopdetail/000000000383/",
-   "price": 506,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000383_7OuBRZY.jpg",
    "created": "2026-11-07"
   }
  ]
