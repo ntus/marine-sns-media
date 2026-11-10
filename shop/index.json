@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-10 09:00 JST",
+ "generated": "2026-11-10 10:30 JST",
  "products": 322,
  "mode": "new",
  "groups": {
@@ -810,17 +810,17 @@
    "created": "2026-11-07"
   },
   {
-   "name": "JUNGLE GYM MICRO ASSIST (ジャングルジム ミクロアシスト) J406",
-   "url": "https://s.ntus.info/shopdetail/000000000385/",
-   "price": 583,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000385_OcQibKj.jpg",
-   "created": "2026-11-07"
-  },
-  {
    "name": "DAIWA EG SNAP (ダイワ EG イージースナップ) S マットブラック 8個入 エギング用",
    "url": "https://s.ntus.info/shopdetail/000000000384/",
    "price": 330,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000384_wcyeqnY.jpg",
+   "created": "2026-11-07"
+  },
+  {
+   "name": "JUNGLE GYM MICRO ASSIST (ジャングルジム ミクロアシスト) J406",
+   "url": "https://s.ntus.info/shopdetail/000000000385/",
+   "price": 583,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000385_OcQibKj.jpg",
    "created": "2026-11-07"
   }
  ]
