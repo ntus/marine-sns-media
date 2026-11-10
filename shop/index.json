@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-10 10:30 JST",
- "products": 322,
+ "generated": "2026-11-10 11:00 JST",
+ "products": 323,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -438,13 +438,13 @@
    "count": 8
   },
   {
-   "name": "DECOY",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=DECOY",
-   "count": 6
-  },
-  {
    "name": "Gamakatsu",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Gamakatsu",
+   "count": 7
+  },
+  {
+   "name": "DECOY",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=DECOY",
    "count": 6
   },
   {
@@ -740,6 +740,13 @@
  ],
  "new": [
   {
+   "name": "Gamakatsu サポートフック 鬼爪 ハゼクラスペシャル (がまかつ オニヅメ) 42-487",
+   "url": "https://s.ntus.info/shopdetail/000000000396/",
+   "price": 450,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000396_u5bnXku.jpg",
+   "created": "2026-11-10"
+  },
+  {
    "name": "DAIWA TG BAIT (ダイワ TGベイト)",
    "url": "https://s.ntus.info/shopdetail/000000000395/",
    "price": 2700,
@@ -814,13 +821,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000384/",
    "price": 330,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000384_wcyeqnY.jpg",
-   "created": "2026-11-07"
-  },
-  {
-   "name": "JUNGLE GYM MICRO ASSIST (ジャングルジム ミクロアシスト) J406",
-   "url": "https://s.ntus.info/shopdetail/000000000385/",
-   "price": 583,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000385_OcQibKj.jpg",
    "created": "2026-11-07"
   }
  ]
