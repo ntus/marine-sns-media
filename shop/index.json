@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-10 11:00 JST",
- "products": 323,
+ "generated": "2026-11-10 11:10 JST",
+ "products": 326,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -478,6 +478,11 @@
    "count": 4
   },
   {
+   "name": "PROX",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=PROX",
+   "count": 4
+  },
+  {
    "name": "Berkley",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Berkley",
    "count": 3
@@ -500,11 +505,6 @@
   {
    "name": "OWNER",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=OWNER",
-   "count": 3
-  },
-  {
-   "name": "PROX",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=PROX",
    "count": 3
   },
   {
@@ -613,6 +613,11 @@
    "count": 1
   },
   {
+   "name": "Golden",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=Golden",
+   "count": 1
+  },
+  {
    "name": "HMKL",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=HMKL",
    "count": 1
@@ -670,6 +675,11 @@
   {
    "name": "SUNLINE",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=SUNLINE",
+   "count": 1
+  },
+  {
+   "name": "TIEMCO",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=TIEMCO",
    "count": 1
   },
   {
@@ -740,6 +750,27 @@
  ],
  "new": [
   {
+   "name": "PROX Hook Sharpener 80 (プロックス フックシャープナー80) PX90880",
+   "url": "https://s.ntus.info/shopdetail/000000000399/",
+   "price": 840,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000399_mjuWDUD.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "TIEMCO Sharpener (ティムコ シャープナー) セラミックフックシャープナー",
+   "url": "https://s.ntus.info/shopdetail/000000000398/",
+   "price": 840,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000398_Mbqy0nZ.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "Golden Mean GM Line Cutter (ゴールデンミーン GMラインカッター)",
+   "url": "https://s.ntus.info/shopdetail/000000000397/",
+   "price": 480,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000397_5rmt3jR.jpg",
+   "created": "2026-11-10"
+  },
+  {
    "name": "Gamakatsu サポートフック 鬼爪 ハゼクラスペシャル (がまかつ オニヅメ) 42-487",
    "url": "https://s.ntus.info/shopdetail/000000000396/",
    "price": 450,
@@ -801,27 +832,6 @@
    "price": 1200,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000389_35h5jI5.jpg",
    "created": "2026-11-09"
-  },
-  {
-   "name": "ヤマワ産業 ゴム張ガン玉 スタートセット ノーマルタイプ（3号&#12316;4B 7種×各6個・ケース付）",
-   "url": "https://s.ntus.info/shopdetail/000000000387/",
-   "price": 1200,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000387_Eag17Ir.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "TaPiYoTa TAIRUBBER HOOK SYSTEM (タピヨタ タイラバ フックシステム) taichi69nz がまかつフック3本 ネクタイ付き",
-   "url": "https://s.ntus.info/shopdetail/000000000386/",
-   "price": 1000,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000386_F3HUWro.jpg",
-   "created": "2026-11-07"
-  },
-  {
-   "name": "DAIWA EG SNAP (ダイワ EG イージースナップ) S マットブラック 8個入 エギング用",
-   "url": "https://s.ntus.info/shopdetail/000000000384/",
-   "price": 330,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000384_wcyeqnY.jpg",
-   "created": "2026-11-07"
   }
  ]
 }
