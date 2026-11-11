@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-11 11:30 JST",
- "products": 335,
+ "generated": "2026-11-12 07:30 JST",
+ "products": 337,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -568,6 +568,11 @@
    "count": 2
   },
   {
+   "name": "ZPI",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=ZPI",
+   "count": 2
+  },
+  {
    "name": "deps",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=deps",
    "count": 2
@@ -760,6 +765,20 @@
  ],
  "new": [
   {
+   "name": "ZPI ハンドルノブ ARK（ロゴ無し）・HSK（ZPIロゴ付き）2個1組（LOONGZE ローンズ用 ZPIハンドル向け）",
+   "url": "https://s.ntus.info/shopdetail/000000000418/",
+   "price": 7000,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000418_KbEzF3c.jpg",
+   "created": "2026-11-12"
+  },
+  {
+   "name": "ZPI ZELOS ハンドル 92mm・102mm・118mm（LOONGZE ローンズ ベイトリール用・ノブ別売）",
+   "url": "https://s.ntus.info/shopdetail/000000000417/",
+   "price": 14000,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000417_mkmmqiF.jpg",
+   "created": "2026-11-12"
+  },
+  {
    "name": "ハッピーハゼツリ2 ハゼ竿 150cm・180cm（ハゼプロ・398World 監修）",
    "url": "https://s.ntus.info/shopdetail/000000000416/",
    "price": 1810,
@@ -827,20 +846,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000397/",
    "price": 480,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000397_5rmt3jR.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "Gamakatsu サポートフック 鬼爪 ハゼクラスペシャル (がまかつ オニヅメ) 42-487",
-   "url": "https://s.ntus.info/shopdetail/000000000396/",
-   "price": 450,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000396_u5bnXku.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "DAIWA TG BAIT (ダイワ TGベイト)",
-   "url": "https://s.ntus.info/shopdetail/000000000395/",
-   "price": 2700,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000395_aH7H5ss.jpg",
    "created": "2026-11-10"
   }
  ]
