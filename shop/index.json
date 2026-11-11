@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-10 23:30 JST",
- "products": 333,
+ "generated": "2026-11-11 11:10 JST",
+ "products": 334,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -760,6 +760,13 @@
  ],
  "new": [
   {
+   "name": "ブルーストーム Réカリフウエスト BSJ-7300RS 手動膨脹式ライフジャケット（国土交通省型式承認品 TYPE A）",
+   "url": "https://s.ntus.info/shopdetail/000000000415/",
+   "price": 13200,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000415_c4TFckR.jpg",
+   "created": "2026-11-11"
+  },
+  {
    "name": "オサノン 完全ハリス止 ステンレス製 8個入",
    "url": "https://s.ntus.info/shopdetail/000000000405/",
    "price": 215,
@@ -834,13 +841,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000394/",
    "price": 1400,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000394_KLfhcZO.jpg",
-   "created": "2026-11-09"
-  },
-  {
-   "name": "LUCKY CRAFT Deep Cra-pea SFT (ラッキークラフト ディープクラ・ピー SFT) 34mm 3.3g エリアトラウト",
-   "url": "https://s.ntus.info/shopdetail/000000000393/",
-   "price": 1400,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000393_fjNys36.jpg",
    "created": "2026-11-09"
   }
  ]
