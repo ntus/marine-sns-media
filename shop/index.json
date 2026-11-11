@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-11 11:20 JST",
- "products": 334,
+ "generated": "2026-11-11 11:30 JST",
+ "products": 335,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -760,6 +760,13 @@
  ],
  "new": [
   {
+   "name": "ハッピーハゼツリ2 ハゼ竿 150cm・180cm（ハゼプロ・398World 監修）",
+   "url": "https://s.ntus.info/shopdetail/000000000416/",
+   "price": 1810,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000416_y4L1aMZ.jpg",
+   "created": "2026-11-11"
+  },
+  {
    "name": "ブルーストーム Reカリフウエスト BSJ-7300RS 手動膨脹式ライフジャケット（国土交通省型式承認品 TYPE A）",
    "url": "https://s.ntus.info/shopdetail/000000000415/",
    "price": 13200,
@@ -835,13 +842,6 @@
    "price": 2700,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000395_aH7H5ss.jpg",
    "created": "2026-11-10"
-  },
-  {
-   "name": "LUCKY CRAFT Deep Cra-pea DRS SS ハゼカラー (ラッキークラフト ディープクラ・ピー DRS SS) 34mm 3.9g ハゼクランク",
-   "url": "https://s.ntus.info/shopdetail/000000000394/",
-   "price": 1400,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000394_KLfhcZO.jpg",
-   "created": "2026-11-09"
   }
  ]
 }
