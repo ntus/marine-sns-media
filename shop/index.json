@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-12 15:20 JST",
- "products": 337,
+ "generated": "2026-11-12 15:30 JST",
+ "products": 339,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -443,6 +443,11 @@
    "count": 7
   },
   {
+   "name": "BOTTOMUP",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=BOTTOMUP",
+   "count": 6
+  },
+  {
    "name": "DECOY",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=DECOY",
    "count": 6
@@ -471,11 +476,6 @@
    "name": "ニッコー化成",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=NIKKO",
    "count": 5
-  },
-  {
-   "name": "BOTTOMUP",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=BOTTOMUP",
-   "count": 4
   },
   {
    "name": "OWNER",
@@ -765,6 +765,20 @@
  ],
  "new": [
   {
+   "name": "BOTTOMUP Gimmy (ボトムアップ ギミー) 3.5",
+   "url": "https://s.ntus.info/shopdetail/000000000420/",
+   "price": 1023,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000420_7mSW9hn.jpg",
+   "created": "2026-11-12"
+  },
+  {
+   "name": "BOTTOMUP Kunnery (ボトムアップ クネリー) 3.6",
+   "url": "https://s.ntus.info/shopdetail/000000000419/",
+   "price": 748,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000419_xMxfnHy.jpg",
+   "created": "2026-11-12"
+  },
+  {
    "name": "ZPI ZELOS ハンドル 92mm・102mm・118mm（LOONGZE ローンズ ベイトリール用・ノブ別売）",
    "url": "https://s.ntus.info/shopdetail/000000000417/",
    "price": 14000,
@@ -832,20 +846,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000398/",
    "price": 840,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000398_Mbqy0nZ.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "PROX Hook Sharpener 80 (プロックス フックシャープナー80) PX90880",
-   "url": "https://s.ntus.info/shopdetail/000000000399/",
-   "price": 840,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000399_mjuWDUD.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "Golden Mean GM Line Cutter (ゴールデンミーン GMラインカッター)",
-   "url": "https://s.ntus.info/shopdetail/000000000397/",
-   "price": 480,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000397_5rmt3jR.jpg",
    "created": "2026-11-10"
   }
  ]
