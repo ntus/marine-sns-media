@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-12 07:30 JST",
+ "generated": "2026-11-12 15:20 JST",
  "products": 337,
  "mode": "new",
  "groups": {
@@ -765,17 +765,17 @@
  ],
  "new": [
   {
-   "name": "ZPI ハンドルノブ ARK（ロゴ無し）・HSK（ZPIロゴ付き）2個1組（LOONGZE ローンズ用 ZPIハンドル向け）",
-   "url": "https://s.ntus.info/shopdetail/000000000418/",
-   "price": 7000,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000418_KbEzF3c.jpg",
-   "created": "2026-11-12"
-  },
-  {
    "name": "ZPI ZELOS ハンドル 92mm・102mm・118mm（LOONGZE ローンズ ベイトリール用・ノブ別売）",
    "url": "https://s.ntus.info/shopdetail/000000000417/",
    "price": 14000,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000417_mkmmqiF.jpg",
+   "created": "2026-11-12"
+  },
+  {
+   "name": "ZPI ハンドルノブ ARK（ロゴ無し）・HSK（ZPIロゴ付き）2個1組（LOONGZE ローンズ用 ZPIハンドル向け）",
+   "url": "https://s.ntus.info/shopdetail/000000000418/",
+   "price": 7000,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000418_KbEzF3c.jpg",
    "created": "2026-11-12"
   },
   {
@@ -828,17 +828,17 @@
    "created": "2026-11-10"
   },
   {
-   "name": "PROX Hook Sharpener 80 (プロックス フックシャープナー80) PX90880",
-   "url": "https://s.ntus.info/shopdetail/000000000399/",
-   "price": 840,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000399_mjuWDUD.jpg",
-   "created": "2026-11-10"
-  },
-  {
    "name": "TIEMCO Sharpener (ティムコ シャープナー) セラミックフックシャープナー",
    "url": "https://s.ntus.info/shopdetail/000000000398/",
    "price": 840,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000398_Mbqy0nZ.jpg",
+   "created": "2026-11-10"
+  },
+  {
+   "name": "PROX Hook Sharpener 80 (プロックス フックシャープナー80) PX90880",
+   "url": "https://s.ntus.info/shopdetail/000000000399/",
+   "price": 840,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000399_mjuWDUD.jpg",
    "created": "2026-11-10"
   },
   {
