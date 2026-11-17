@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-17 11:30 JST",
- "products": 338,
+ "generated": "2026-11-17 17:30 JST",
+ "products": 340,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -765,6 +765,20 @@
  ],
  "new": [
   {
+   "name": "はじめてのスルッパプラス５種パック(おまけ付き)",
+   "url": "https://s.ntus.info/shopdetail/000000000422/",
+   "price": 1500,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000422_24Kab5x.jpg",
+   "created": "2026-11-17"
+  },
+  {
+   "name": "はじめてのスルッパ５種パック(おまけ付き)",
+   "url": "https://s.ntus.info/shopdetail/000000000421/",
+   "price": 1000,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000421_qFJvNh7.jpg",
+   "created": "2026-11-17"
+  },
+  {
    "name": "BOTTOMUP Gimmy (ボトムアップ ギミー) 3.5",
    "url": "https://s.ntus.info/shopdetail/000000000420/",
    "price": 1023,
@@ -832,20 +846,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000401/",
    "price": 250,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000401_FQaFhpZ.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "SASAME 道具屋さん 一発ハリス止 P-234 (ささめ針) 5個入",
-   "url": "https://s.ntus.info/shopdetail/000000000400/",
-   "price": 230,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000400_44UtCzq.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "TIEMCO Sharpener (ティムコ シャープナー) セラミックフックシャープナー",
-   "url": "https://s.ntus.info/shopdetail/000000000398/",
-   "price": 840,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000398_Mbqy0nZ.jpg",
    "created": "2026-11-10"
   }
  ]
