@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-19 16:20 JST",
- "products": 341,
+ "generated": "2026-11-19 16:30 JST",
+ "products": 342,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -563,6 +563,11 @@
    "count": 2
   },
   {
+   "name": "TaPiYoTa",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=TaPiYoTa",
+   "count": 2
+  },
+  {
    "name": "YGK",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=YGK",
    "count": 2
@@ -703,11 +708,6 @@
    "count": 1
   },
   {
-   "name": "TaPiYoTa",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=TaPiYoTa",
-   "count": 1
-  },
-  {
    "name": "Tackle House",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=Tackle%20House",
    "count": 1
@@ -764,6 +764,13 @@
   }
  ],
  "new": [
+  {
+   "name": "TaPiYoTa 無極 mukyoku タイラバネクタイ 0.8mm (タピヨタ ムキョク) taichi69nz",
+   "url": "https://s.ntus.info/shopdetail/000000000424/",
+   "price": 498,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000424_ib4MB1S.jpg",
+   "created": "2026-11-19"
+  },
   {
    "name": "Zatta チャー (ザッタ チャー) シンキングペンシル 40mm 0.9g",
    "url": "https://s.ntus.info/shopdetail/000000000423/",
@@ -839,13 +846,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000403/",
    "price": 242,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000403_qSxQCYJ.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "YO-ZURI ガン玉セット やわらかタイプ L18（3・2・1・B・2B・3B）(ヨーヅリ)",
-   "url": "https://s.ntus.info/shopdetail/000000000402/",
-   "price": 482,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000402_NhWf2u5.jpg",
    "created": "2026-11-10"
   }
  ]
