@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-19 16:50 JST",
- "products": 345,
+ "generated": "2026-11-19 17:10 JST",
+ "products": 347,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -658,6 +658,16 @@
    "count": 1
   },
   {
+   "name": "KINOE",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=KINOE",
+   "count": 1
+  },
+  {
+   "name": "Lucky",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=Lucky",
+   "count": 1
+  },
+  {
    "name": "MARUKYU",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=MARUKYU",
    "count": 1
@@ -770,6 +780,20 @@
  ],
  "new": [
   {
+   "name": "Lucky Craft B-GROUND WAH 37F GLOW (ラッキークラフト ワウ 37F グロー)",
+   "url": "https://s.ntus.info/shopdetail/000000000429/",
+   "price": 1540,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000429_Mv5abp3.jpg",
+   "created": "2026-11-19"
+  },
+  {
+   "name": "KINOE ZEROcalorie 45S / 55S / 55S PLUS (キノエ ゼロカロリー) ワーミングミノー",
+   "url": "https://s.ntus.info/shopdetail/000000000428/",
+   "price": 1595,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000428_AWR3Nld.jpg",
+   "created": "2026-11-19"
+  },
+  {
    "name": "APPLAUD nanodaX SL SHOCK LEADER 15LB 3号 50m (サンヨーナイロン アプロード ナノダックス ショックリーダー)",
    "url": "https://s.ntus.info/shopdetail/000000000427/",
    "price": 1320,
@@ -838,20 +862,6 @@
    "price": 14000,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000417_mkmmqiF.jpg",
    "created": "2026-11-12"
-  },
-  {
-   "name": "ZPI ハンドルノブ ARK（ロゴ無し）・HSK（ZPIロゴ付き）2個1組（LOONGZE ローンズ用 ZPIハンドル向け）",
-   "url": "https://s.ntus.info/shopdetail/000000000418/",
-   "price": 7000,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000418_KbEzF3c.jpg",
-   "created": "2026-11-12"
-  },
-  {
-   "name": "ハッピーハゼツリ2 ハゼ竿 150cm・180cm（ハゼプロ・398World 監修）",
-   "url": "https://s.ntus.info/shopdetail/000000000416/",
-   "price": 1991,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000416_y4L1aMZ.jpg",
-   "created": "2026-11-11"
   }
  ]
 }
