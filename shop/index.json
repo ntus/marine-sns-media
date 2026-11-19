@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-19 16:30 JST",
- "products": 342,
+ "generated": "2026-11-19 16:40 JST",
+ "products": 345,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -473,6 +473,11 @@
    "count": 5
   },
   {
+   "name": "Seaguar",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=Seaguar",
+   "count": 5
+  },
+  {
    "name": "ニッコー化成",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=NIKKO",
    "count": 5
@@ -515,11 +520,6 @@
   {
    "name": "SMITH",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=SMITH",
-   "count": 3
-  },
-  {
-   "name": "Seaguar",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=Seaguar",
    "count": 3
   },
   {
@@ -586,6 +586,11 @@
    "name": "deps",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=deps",
    "count": 2
+  },
+  {
+   "name": "APPLAUD",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=APPLAUD",
+   "count": 1
   },
   {
    "name": "ASURA",
@@ -765,6 +770,27 @@
  ],
  "new": [
   {
+   "name": "APPLAUD nanodaX SL SHOCK LEADER 15LB 3号 50m (サンヨーナイロン アプロード ナノダックス ショックリーダー)",
+   "url": "https://s.ntus.info/shopdetail/000000000427/",
+   "price": 1320,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000427_atmKkI7.jpg",
+   "created": "2026-11-19"
+  },
+  {
+   "name": "Seaguar PE X4 LURE EDITION 150m 0.3号 (シーガー PEエックスフォー ルアーエディション)",
+   "url": "https://s.ntus.info/shopdetail/000000000426/",
+   "price": 1890,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000426_gnQqTKu.jpg",
+   "created": "2026-11-19"
+  },
+  {
+   "name": "Seaguar PE X8 150m (シーガー PEエックスエイト) 8本組 PEライン",
+   "url": "https://s.ntus.info/shopdetail/000000000425/",
+   "price": 1890,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000425_fqXaIof.jpg",
+   "created": "2026-11-19"
+  },
+  {
    "name": "TaPiYoTa 無極 mukyoku タイラバネクタイ 0.8mm (タピヨタ ムキョク) taichi69nz",
    "url": "https://s.ntus.info/shopdetail/000000000424/",
    "price": 498,
@@ -826,27 +852,6 @@
    "price": 1991,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000416_y4L1aMZ.jpg",
    "created": "2026-11-11"
-  },
-  {
-   "name": "ブルーストーム Reカリフウエスト BSJ-7300RS 手動膨脹式ライフジャケット（国土交通省型式承認品 TYPE A）",
-   "url": "https://s.ntus.info/shopdetail/000000000415/",
-   "price": 13200,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000415_c4TFckR.jpg",
-   "created": "2026-11-11"
-  },
-  {
-   "name": "オサノン 完全ハリス止 ステンレス製 8個入",
-   "url": "https://s.ntus.info/shopdetail/000000000405/",
-   "price": 264,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000405_bF1jZJK.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "SASAME 袖鉤（金）糸付 AA401 ハリス45cm (ささめ針)",
-   "url": "https://s.ntus.info/shopdetail/000000000403/",
-   "price": 242,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000403_qSxQCYJ.jpg",
-   "created": "2026-11-10"
   }
  ]
 }
