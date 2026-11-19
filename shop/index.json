@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-18 16:20 JST",
- "products": 340,
+ "generated": "2026-11-19 09:40 JST",
+ "products": 341,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -573,6 +573,11 @@
    "count": 2
   },
   {
+   "name": "Zatta",
+   "url": "https://s.ntus.info/shop/shopbrand.html?search=Zatta",
+   "count": 2
+  },
+  {
    "name": "deps",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=deps",
    "count": 2
@@ -738,11 +743,6 @@
    "count": 1
   },
   {
-   "name": "Zatta",
-   "url": "https://s.ntus.info/shop/shopbrand.html?search=Zatta",
-   "count": 1
-  },
-  {
    "name": "fimo",
    "url": "https://s.ntus.info/shop/shopbrand.html?search=fimo",
    "count": 1
@@ -764,6 +764,13 @@
   }
  ],
  "new": [
+  {
+   "name": "Zatta チャー (ザッタ チャー) シンキングペンシル 40mm 0.9g",
+   "url": "https://s.ntus.info/shopdetail/000000000423/",
+   "price": 1320,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000423_xnz4QtK.jpg",
+   "created": "2026-11-19"
+  },
   {
    "name": "はじめてのスルッパプラス５種パック",
    "url": "https://s.ntus.info/shopdetail/000000000422/",
@@ -839,13 +846,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000402/",
    "price": 482,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000402_NhWf2u5.jpg",
-   "created": "2026-11-10"
-  },
-  {
-   "name": "OWNER インターロックスナップ付スイベル 72470 (オーナーばり)",
-   "url": "https://s.ntus.info/shopdetail/000000000401/",
-   "price": 275,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000401_FQaFhpZ.jpg",
    "created": "2026-11-10"
   }
  ]
