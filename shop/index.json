@@ -1,7 +1,7 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-23 11:39 JST",
- "products": 355,
+ "generated": "2026-11-24 12:10 JST",
+ "products": 356,
  "mode": "new",
  "groups": {
   "loongze": {
@@ -780,6 +780,13 @@
  ],
  "new": [
   {
+   "name": "【B級品】液漏れワーム 訳あり特価（全品2割引）",
+   "url": "https://s.ntus.info/shopdetail/000000000430/",
+   "price": 549,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000430_Fca4DGq.jpg",
+   "created": "2026-11-24"
+  },
+  {
    "name": "Lucky Craft B-GROUND WAH 37F GLOW (ラッキークラフト ワウ 37F グロー)",
    "url": "https://s.ntus.info/shopdetail/000000000429/",
    "price": 1540,
@@ -854,13 +861,6 @@
    "url": "https://s.ntus.info/shopdetail/000000000419/",
    "price": 748,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000419_xMxfnHy.jpg",
-   "created": "2026-11-12"
-  },
-  {
-   "name": "ZPI ハンドルノブ ARK（ロゴ無し）・HSK（ZPIロゴ付き）2個1組（LOONGZE ローンズ用 ZPIハンドル向け）",
-   "url": "https://s.ntus.info/shopdetail/000000000418/",
-   "price": 7000,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000418_KbEzF3c.jpg",
    "created": "2026-11-12"
   }
  ]
