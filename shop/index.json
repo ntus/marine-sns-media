@@ -1,6 +1,6 @@
 {
  "version": "0.4.0",
- "generated": "2026-11-24 12:10 JST",
+ "generated": "2026-11-27 14:50 JST",
  "products": 356,
  "mode": "new",
  "groups": {
@@ -801,17 +801,17 @@
    "created": "2026-11-19"
   },
   {
-   "name": "APPLAUD nanodaX SL SHOCK LEADER 15LB 3号 50m (サンヨーナイロン アプロード ナノダックス ショックリーダー)",
-   "url": "https://s.ntus.info/shopdetail/000000000427/",
-   "price": 1320,
-   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000427_atmKkI7.jpg",
-   "created": "2026-11-19"
-  },
-  {
    "name": "Seaguar PE X4 LURE EDITION 150m 0.3号 (シーガー PEエックスフォー ルアーエディション)",
    "url": "https://s.ntus.info/shopdetail/000000000426/",
    "price": 1890,
    "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000426_gnQqTKu.jpg",
+   "created": "2026-11-19"
+  },
+  {
+   "name": "APPLAUD nanodaX SL SHOCK LEADER 15LB 3号 50m (サンヨーナイロン アプロード ナノダックス ショックリーダー)",
+   "url": "https://s.ntus.info/shopdetail/000000000427/",
+   "price": 1320,
+   "image": "https://makeshop-multi-images.akamaized.net/ntus/itemimages/000000000427_atmKkI7.jpg",
    "created": "2026-11-19"
   },
   {
